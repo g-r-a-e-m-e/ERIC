@@ -1,4 +1,4 @@
-# Project ERIC - Emergency Readiness In a Case
+# ERIC - Emergency Readiness In a Case
 
 ## ***You never know when disaster might strike***
 
