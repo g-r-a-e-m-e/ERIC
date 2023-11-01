@@ -29,7 +29,7 @@ I want to help you to have a plan.
 - I shall be documenting the progress of this project every step of the way.
 
 ### Where is ERIC?
-- ERIC is in development as of 2023-10-29.
+- ERIC began development on 2023-10-29.
 - This is a brand-new project, and I shall be updating it as I have time to work on it.
 - My goal is to have a functional prototype sometime in mid-to-late-November, 2023.
 
@@ -41,3 +41,4 @@ I want to help you to have a plan.
 | Version | Date | Notes |
 |---|---|---|
 | 0.01 | 2023-10-29 | Created README v0.01 |
+| 0.02 | 2023-11-01 | Update README v0.02 |
